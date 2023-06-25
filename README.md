@@ -2,7 +2,7 @@
 Character.AI Character Definitions Preservations Project
 
 # Who am I in Character.AI?
-[Halo semuanya](## "Hello, everyone in Indonesian"), I'm Reuben Hu, better known as Arthur MacTavish on Character.AI and numerous other social media platforms.
+[Halo semuanya](## "Hello everyone in Indonesian"), I'm Reuben Hu, better known as Arthur MacTavish on Character.AI and numerous other social media platforms.
 
 # Are you writing these character definitions on your own?
 No, I don't. I use some tools to help me, so I can make character definitions faster (essentially a dialogue). Here are some of them:
