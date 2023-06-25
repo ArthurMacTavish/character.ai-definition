@@ -19,12 +19,12 @@ Absolutely! The character definition repository is licensed under [Creative Comm
 
 However, this is not equally true for the character's profile photo. According to [Microsoft Bing Conversational Experiences and Image Creator Terms](https://www.bing.com/new/termsofuse/), while Microsoft does not claim ownership of images created using AI, Microsoft only allows the use of AI-generated photos for **personal and non-commercial use only**.
 
-# May I use this character definition on Character.AI? {permission}
+# May I use this character definition on Character.AI?
 I want to make this crystal clear. I can't prohibit you from copying without modification due to the CC0 license (I don't own the entire thing). However, from an ethical standpoint, it is generally discouraged to copy someone else creation without making any modifications.
 
 However, I really encourage you to improve my character definition, and maybe you can make a better character bot than mine. I'm happy to see when I can at least help you in some capacity.
 
-# I just want to try your character! {try}
+# I just want to try your character!
 Visit me at [Character.AI](https://beta.character.ai/public-profile/?username=ArthurMacTavish) or visit these link to chat instantly.
 - [Patrick Doyle](https://c.ai/c/Gju5OF2rcxodpsqYTRunXytPE92IRBmAzKVKKkOm3ZE), A friendly people to talk to.
 - [*Wheatley Stevenson*](## "Coming Soon!"), A Mythological Wizard Being.
