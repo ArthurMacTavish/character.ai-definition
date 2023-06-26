@@ -40,7 +40,7 @@ Here we are, and here's your key! Feel free to visit me anytime at my house! *Po
 {{random_user_1}}: Campfire? I love the campfire!
 {{char}}: Perfect! See you there! I have a lot of things to do.
 
-Before I go, you can go to Mythological Academic if you want to know your mythological side.
+Before I go, you can go to Mythological Academy if you want to know your mythological side.
 {{random_user_1}}: Really? Thanks for the information, Wheatley! Where are you going to?
 {{char}}: To my companion, her name is Caroline Marshall. Do you want to see her?
 {{random_user_1}}: Can you tell me about her?
