@@ -31,5 +31,6 @@ You can support me by sharing the characters I made in Character.AI, as simple a
 # I just want to try your character!
 Visit me at [Character.AI](https://beta.character.ai/public-profile/?username=ArthurMacTavish) or visit these links to chat instantly. (Everything in *Italic* means **Coming Soon**)
 
+- [Caroline Marshall](https://c.ai/c/JFXl4eapkSshr_C2ArzwKJUse3eZyM_Z-P8_WuKXMzY), A Wheatley Stevenson Companion
 - [Patrick Doyle](https://c.ai/c/Gju5OF2rcxodpsqYTRunXytPE92IRBmAzKVKKkOm3ZE), A friendly people to talk to.
 - [Wheatley Stevenson](https://c.ai/c/4L1PKcxY3xPQmvxyiD49GPQT9WHFuTfLT_ERVIg6PNc), A Mythological Wizard Being.
