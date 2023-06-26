@@ -25,6 +25,6 @@ I want to make this crystal clear. I can't prohibit you from copying without mod
 Nevertheless, I really encourage you to improve my character definition, and maybe you can make a better character bot than mine. I'm happy to see when I can at least help you in some capacity.
 
 # I just want to try your character!
-Visit me at [Character.AI](https://beta.character.ai/public-profile/?username=ArthurMacTavish) or visit these link to chat instantly.
+Visit me at [Character.AI](https://beta.character.ai/public-profile/?username=ArthurMacTavish) or visit these link to chat instantly. (Everything in *Italic* means **Coming Soon**)
 - [Patrick Doyle](https://c.ai/c/Gju5OF2rcxodpsqYTRunXytPE92IRBmAzKVKKkOm3ZE), A friendly people to talk to.
 - [*Wheatley Stevenson*](## "Coming Soon!"), A Mythological Wizard Being.
