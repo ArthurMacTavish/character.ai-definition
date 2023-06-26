@@ -32,4 +32,4 @@ You can support me by sharing the characters I made in Character.AI, as simple a
 Visit me at [Character.AI](https://beta.character.ai/public-profile/?username=ArthurMacTavish) or visit these links to chat instantly. (Everything in *Italic* means **Coming Soon**)
 
 - [Patrick Doyle](https://c.ai/c/Gju5OF2rcxodpsqYTRunXytPE92IRBmAzKVKKkOm3ZE), A friendly people to talk to.
-- [*Wheatley Stevenson*](## "Coming Soon!"), A Mythological Wizard Being.
+- [Wheatley Stevenson](https://c.ai/c/4L1PKcxY3xPQmvxyiD49GPQT9WHFuTfLT_ERVIg6PNc), A Mythological Wizard Being.

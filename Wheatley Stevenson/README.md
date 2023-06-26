@@ -1,28 +1,4 @@
-# Template for Character Definition (Replace this Part with Name of the Character)
-
-DELETE THIS LINE
-
-According to [Character.AI Character Book - Character Attributes](https://book.character.ai/character-book/character-attributes), there are several character attributes, but here's what I use:
-
-| Attributes Name       | Meaning                                                                                                                            | Where to put them? |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| Name                  | Name of the Character (3-20 digits long)                                                                                           | README.MD          |
-| Greeting              | The first thing a Character will say when starting a new conversation                                                              | README.MD          |
-| Avatar                | Photo Profile (Avatar) for the Character                                                                                           | Avatar.jpg         |
-| Avatar Prompt         | Microsoft Bing Image Creator prompt for the Character's Avatar                                                                     | README.MD          |
-| Avatar Link Source    | Microsoft Bing Image Creator link for the Character's Avatar                                                                       | README.MD          |
-| Short Description     | A short description of the Character (0-50 digits long)                                                                            | README.MD          |
-| Long Description      | A long description of the Character (0-500 digits long)                                                                            | README.MD          |
-| Categories            | Keywords/tags for the Character (up to 5 categories)                                                                               | README.MD          |
-| Character Visibility  | Is the Character visible to the:<br>- **Public** (anyone)<br>- **Unlisted** (only with a link)<br>- **Private** (only the creator) | README.MD          |
-| Definition Visibility | Is the Character Definition visible to the:<br>- **Public** (anyone)<br>- **Private** (only the creator)                           | README.MD          |
-| Definition            | The actual Character Definition                                                                                                    | Definition.txt     |
-
-Below this line, is the template where you use to give attributes of your character (The template below is for [Wheatley Stevenson](https://c.ai/c/4L1PKcxY3xPQmvxyiD49GPQT9WHFuTfLT_ERVIg6PNc))
-
-Noticed "Chat with *Character Name* on Character.AI"? Replace the name of the Character and put a link in it. 
-
-UNTIL THIS LINE
+# Wheatley Stevenson
 
 Chat with [Wheatley Stevenson on Character.AI](https://c.ai/c/4L1PKcxY3xPQmvxyiD49GPQT9WHFuTfLT_ERVIg6PNc)
 
